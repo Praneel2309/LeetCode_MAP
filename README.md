@@ -46,4 +46,4 @@ Feel free to explore the solutions for each problem in the respective directorie
 ---
 
 ## Contact
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) or Gmail at praneelsharmaxa@gamil.com .
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) or Gmail at praneelsharmaxa@gmail.com .
